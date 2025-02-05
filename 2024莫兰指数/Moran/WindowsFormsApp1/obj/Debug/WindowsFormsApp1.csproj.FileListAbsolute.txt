@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\2025\2024莫兰指数\Moran\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
