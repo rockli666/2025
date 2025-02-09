@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\bin\Debug\CouldPoint.exe.config
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\bin\Debug\CouldPoint.exe
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\bin\Debug\CouldPoint.pdb
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\obj\Debug\CouldPoint.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\obj\Debug\CouldPoint.Form1.resources
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\obj\Debug\CouldPoint.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\obj\Debug\CouldPoint.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\obj\Debug\CouldPoint.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\obj\Debug\CouldPoint.exe
+C:\Users\LENOVO\Desktop\2025\2023点云分割\CouldPoint\CouldPoint\obj\Debug\CouldPoint.pdb
